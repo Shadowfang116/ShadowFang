@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shadowfang/Shadowfang/main/gruvb99810.png" alt="Shadowfang Banner" width="1000"/>
+<p align="center" style="margin:0;padding:0;">
+  <img src="https://raw.githubusercontent.com/Shadowfang/Shadowfang/main/gruvb99810.png" alt="Shadowfang Banner" width="100%"/>
 </p>
+
 
 ### Hi there 👋  
 Welcome to my GitHub profile — I’m **Shadowfang**   
