@@ -1,7 +1,7 @@
 ![Shadowfang Banner](./gruvb99810.png)
 
-### Hi there 👋  
-Welcome to my GitHub profile — I’m **Shadowfang**   
+### Hi 
+I’m **Shadowfang**   
 
 🌌 Passionate about creating, automating, and optimizing everything I touch.  
 I love building tools that blend design, logic, and usability.
