@@ -1,3 +1,5 @@
+![Shadowfang Banner](https://raw.githubusercontent.com/Shadowfang/Shadowfang/main/gruvb99810.png)
+
 ### Hi there 👋  
 Welcome to my GitHub profile — I’m **Shadowfang**   
 
