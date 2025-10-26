@@ -25,10 +25,6 @@ I love building tools that blend design, logic, and usability.
 
 ---
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
-
----
-
 #### 📊 GitHub Stats
 ![Shadowfang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadowfang&show_icons=true&theme=tokyonight)  
 
