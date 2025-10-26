@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shadowfang/Shadowfang/main/gruvb99810.png" alt="Shadowfang Banner" width="1000"/>
-</p>
-
+![Shadowfang Banner](https://raw.githubusercontent.com/Shadowfang/Shadowfang/main/gruvb99810.png)
 
 ### Hi there 👋  
 Welcome to my GitHub profile — I’m **Shadowfang**   
