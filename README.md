@@ -1,5 +1,4 @@
-
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Shadowfang/Shadowfang/main/gruvb99810.png">
+[![MasterHead](your image link)](https://raw.githubusercontent.com/Shadowfang/Shadowfang/main/gruvb99810.png)
 
 ### Hi there 👋  
 Welcome to my GitHub profile — I’m **Shadowfang**   
