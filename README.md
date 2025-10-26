@@ -29,5 +29,3 @@ I love building tools that blend design, logic, and usability.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowfang&layout=compact&theme=tokyonight)
 
 ---
-
-> “Code like a shadow — unseen, precise, and powerful.” 🐉
