@@ -1,6 +1,4 @@
-<p align="center" style="margin:0;padding:0;">
-  <img src="https://raw.githubusercontent.com/Shadowfang/Shadowfang/main/gruvb99810.png" alt="Shadowfang Banner" width="100%"/>
-</p>
+
   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Shadowfang/Shadowfang/main/gruvb99810.png">
 
 ### Hi there 👋  
